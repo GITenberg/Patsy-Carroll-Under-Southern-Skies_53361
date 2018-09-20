@@ -1,0 +1,40 @@
+_repo: Patsy-Carroll-Under-Southern-Skies_53361
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Lester, Pauline
+    - Thompson, Ames
+    - Gordon, Grace
+    - Flower, Jessie Graham
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_issued: '2016-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palm Beach (Fla.) -- Juvenile fiction'
+- !lcsh 'Florida -- Description and travel -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PZ'
+- !lcsh 'Beaches -- Juvenile fiction'
+- GITenberg
+title: Patsy Carroll Under Southern Skies
+url: http://www.gutenberg.org/ebooks/53361
