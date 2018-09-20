@@ -8,6 +8,9 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '5821'
     url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: archival
+  image_path: 53361-h/images/cover.jpg
 creator:
   author:
     agent_name: Chase, Josephine
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '1598'
     url: http://www.gutenberg.org/2009/agents/1598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53361#Patsy-Carroll-Under-Southern-Skies
 gutenberg_issued: '2016-10-25'
 gutenberg_type: Text
 identifiers:
